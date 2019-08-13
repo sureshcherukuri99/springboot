@@ -11,5 +11,6 @@ public String home()
 {
 	//System.out.println("Home page requested!");
 		return "index.jsp";
+		//git checkout
 }
 }
